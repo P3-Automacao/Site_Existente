@@ -1877,9 +1877,12 @@ aside {
 	font-weight: 400;
 }
 
-.widget-form input,
+.widget-form input,{
+	color: #ffffff;
+}
 .widget-form textarea {
 	border: 2px solid #fff;
+	
 }
 
 .widget-form textarea {
